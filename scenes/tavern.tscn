@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=3 uid="uid://d22t3papjoxah"]
+
+[ext_resource type="PackedScene" uid="uid://bigh3rs4rn6an" path="res://Assets/TavernScveneAssets/Tavern_firstfloor_walls.glb" id="2_ejety"]
+[ext_resource type="PackedScene" uid="uid://ccixtkh3eug87" path="res://scenes/Player.tscn" id="3_8dirj"]
+[ext_resource type="PackedScene" uid="uid://dgxl0syfofvqh" path="res://Assets/TavernScveneAssets/Tavern_firstfloor_floor.glb" id="3_gwbas"]
+[ext_resource type="PackedScene" uid="uid://d1udb55p1t8mj" path="res://Assets/TavernScveneAssets/Tavern_thieves_area.glb" id="4_gwbas"]
+
+[node name="Tavern" type="Node3D"]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.177429, 0.744672, -0.643415, -0.559717, 0.461395, 0.688355, 0.809467, 0.482264, 0.334941, 0, 0, 0)
+light_energy = 0.75
+shadow_enabled = true
+
+[node name="Player" parent="." instance=ExtResource("3_8dirj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 22, 5, -2)
+speed = 14
+fall_acceleration = 75
+
+[node name="tavern_first_walls" parent="." instance=ExtResource("2_ejety")]
+
+[node name="Tavern_firstfloor_floor" parent="." instance=ExtResource("3_gwbas")]
+
+[node name="Tavern_thieves_area" parent="." instance=ExtResource("4_gwbas")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.30304, -0.0503154, 1.2146)
