@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://hdy5qf3wslmc"]
+
+[ext_resource type="Texture2D" uid="uid://baih7uuqmdgv4" path="res://Assets/TavernSceneAssets/Tavern_firstfloor_barprops_dungeon_texture.png" id="1_7w0th"]
+
+[resource]
+resource_name = "texture"
+albedo_texture = ExtResource("1_7w0th")
+roughness = 0.5

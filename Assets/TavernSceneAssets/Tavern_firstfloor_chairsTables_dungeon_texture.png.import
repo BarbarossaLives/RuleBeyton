@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bycv28m1gnaqg"
-path.s3tc="res://.godot/imported/Tavern_firstfloor_floor_dungeon_texture.png-a07e6a669678361dcc2272ca8ece0c51.s3tc.ctex"
+uid="uid://cwupejt33kjpx"
+path.s3tc="res://.godot/imported/Tavern_firstfloor_chairsTables_dungeon_texture.png-f835192582a4af747dab9a12a00bb55e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://Assets/TavernScveneAssets/Tavern_firstfloor_floor_dungeon_texture.png"
-dest_files=["res://.godot/imported/Tavern_firstfloor_floor_dungeon_texture.png-a07e6a669678361dcc2272ca8ece0c51.s3tc.ctex"]
+source_file="res://Assets/TavernSceneAssets/Tavern_firstfloor_chairsTables_dungeon_texture.png"
+dest_files=["res://.godot/imported/Tavern_firstfloor_chairsTables_dungeon_texture.png-f835192582a4af747dab9a12a00bb55e.s3tc.ctex"]
 
 [params]
 

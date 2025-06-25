@@ -9,7 +9,7 @@
 script = ExtResource("2_v6fml")
 
 [node name="Camera3D" type="Camera3D" parent="." index="0"]
-transform = Transform3D(1, 0, 0, 0, 0.983357, 0.181686, 0, -0.181686, 0.983357, 0, 2.22878, 2.21619)
+transform = Transform3D(1, 0, 0, 0, 0.89968, 0.43655, 0, -0.43655, 0.89968, 0, 2.51886, 2.22128)
 
 [node name="Rig" parent="." index="1"]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0.0867257, 0)

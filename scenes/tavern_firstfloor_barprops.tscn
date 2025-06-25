@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://p5fsk7t701qu"]
+
+[ext_resource type="PackedScene" uid="uid://efg0thlxsrlj" path="res://Assets/TavernSceneAssets/Tavern_firstfloor_barprops.glb" id="1_2pwom"]
+[ext_resource type="Material" uid="uid://hdy5qf3wslmc" path="res://Assets/TavernSceneAssets/texture.tres" id="2_gndka"]
+
+[node name="Tavern_firstfloor_barprops" instance=ExtResource("1_2pwom")]
+
+[node name="keg" parent="." index="0"]
+surface_material_override/0 = ExtResource("2_gndka")
+
+[node name="keg_decorated" parent="." index="1"]
+surface_material_override/0 = ExtResource("2_gndka")
+
+[node name="table_medium_decorated_A" parent="." index="2"]
+surface_material_override/0 = ExtResource("2_gndka")
+
+[node name="table_long_tablecloth_decorated_A" parent="." index="3"]
+surface_material_override/0 = ExtResource("2_gndka")
+
+[node name="table_long_decorated_C" parent="." index="4"]
+surface_material_override/0 = ExtResource("2_gndka")

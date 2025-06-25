@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1udb55p1t8mj"
-path="res://.godot/imported/Tavern_thieves_area.glb-330381660150a39a8bf38a5bc090b10e.scn"
+path="res://.godot/imported/Tavern_thieves_area.glb-691327d5551c19f62866c26a54021aab.scn"
 
 [deps]
 
-source_file="res://Assets/TavernScveneAssets/Tavern_thieves_area.glb"
-dest_files=["res://.godot/imported/Tavern_thieves_area.glb-330381660150a39a8bf38a5bc090b10e.scn"]
+source_file="res://Assets/TavernSceneAssets/Tavern_thieves_area.glb"
+dest_files=["res://.godot/imported/Tavern_thieves_area.glb-691327d5551c19f62866c26a54021aab.scn"]
 
 [params]
 

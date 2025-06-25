@@ -1,0 +1,195 @@
+[gd_scene load_steps=3 format=3 uid="uid://bxec2h22gefrn"]
+
+[ext_resource type="PackedScene" uid="uid://b85j0un7tp0sm" path="res://Assets/TavernSceneAssets/Tavern_firstfloor_chairsTables.glb" id="1_hy3c5"]
+[ext_resource type="Material" uid="uid://hdy5qf3wslmc" path="res://Assets/TavernSceneAssets/texture.tres" id="2_cjsvx"]
+
+[node name="Tavern_firstfloor_chairsTables" instance=ExtResource("1_hy3c5")]
+
+[node name="table_round_large_003" parent="." index="0"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_004" parent="." index="1"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_002" parent="." index="2"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_003" parent="." index="3"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_004" parent="." index="4"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_005" parent="." index="5"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_020" parent="." index="6"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_large_004" parent="." index="7"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_005" parent="." index="8"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_024" parent="." index="9"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_025" parent="." index="10"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_long_001" parent="." index="11"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_long_002" parent="." index="12"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_long_003" parent="." index="13"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_long_004" parent="." index="14"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_large_005" parent="." index="15"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_026" parent="." index="16"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_027" parent="." index="17"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_028" parent="." index="18"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_029" parent="." index="19"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_021" parent="." index="20"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_022" parent="." index="21"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_006" parent="." index="22"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_007" parent="." index="23"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_023" parent="." index="24"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_024" parent="." index="25"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_008" parent="." index="26"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_009" parent="." index="27"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_025" parent="." index="28"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_026" parent="." index="29"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_010" parent="." index="30"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_011" parent="." index="31"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_027" parent="." index="32"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_028" parent="." index="33"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_012" parent="." index="34"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_013" parent="." index="35"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_large" parent="." index="36"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_medium" parent="." index="37"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_large_001" parent="." index="38"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_large_002" parent="." index="39"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_medium_001" parent="." index="40"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="table_round_medium_002" parent="." index="41"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_002" parent="." index="42"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="bench_003" parent="." index="43"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_006" parent="." index="44"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_007" parent="." index="45"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_008" parent="." index="46"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_009" parent="." index="47"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_010" parent="." index="48"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_011" parent="." index="49"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_012" parent="." index="50"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_013" parent="." index="51"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_017" parent="." index="52"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_018" parent="." index="53"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_019" parent="." index="54"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_021" parent="." index="55"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_022" parent="." index="56"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_001" parent="." index="57"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_002" parent="." index="58"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_003" parent="." index="59"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_004" parent="." index="60"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="stool_round_005" parent="." index="61"]
+surface_material_override/0 = ExtResource("2_cjsvx")
+
+[node name="chair_023" parent="." index="62"]
+surface_material_override/0 = ExtResource("2_cjsvx")

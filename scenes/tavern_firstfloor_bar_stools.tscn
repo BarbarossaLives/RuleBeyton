@@ -1,0 +1,54 @@
+[gd_scene load_steps=3 format=3 uid="uid://cuxa41fu277ad"]
+
+[ext_resource type="PackedScene" uid="uid://c21yved4j6ppy" path="res://Assets/TavernSceneAssets/Tavern_firstfloor_barStools.glb" id="1_et5gv"]
+[ext_resource type="Material" uid="uid://hdy5qf3wslmc" path="res://Assets/TavernSceneAssets/texture.tres" id="2_qwxj0"]
+
+[node name="Tavern_firstfloor_barStools" instance=ExtResource("1_et5gv")]
+
+[node name="bar_straight_A" parent="." index="0"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round" parent="." index="1"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="bar_outercorner" parent="." index="2"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="bar_straight_A_001" parent="." index="3"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_006" parent="." index="4"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_007" parent="." index="5"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_008" parent="." index="6"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_009" parent="." index="7"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_010" parent="." index="8"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_011" parent="." index="9"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_013" parent="." index="10"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_014" parent="." index="11"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_015" parent="." index="12"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_016" parent="." index="13"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_017" parent="." index="14"]
+surface_material_override/0 = ExtResource("2_qwxj0")
+
+[node name="stool_round_018" parent="." index="15"]
+surface_material_override/0 = ExtResource("2_qwxj0")

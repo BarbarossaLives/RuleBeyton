@@ -3,17 +3,17 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dgxl0syfofvqh"
-path="res://.godot/imported/Tavern_firstfloor_floor.glb-d0774a30deb1c5b1ac3e6b9d75fb6c3a.scn"
+uid="uid://bi47rrro2ph6x"
+path="res://.godot/imported/Tavern_firstfloor_wallprops.glb-e505fd431db4faa52e92033d11b0be94.scn"
 
 [deps]
 
-source_file="res://Assets/TavernScveneAssets/Tavern_firstfloor_floor.glb"
-dest_files=["res://.godot/imported/Tavern_firstfloor_floor.glb-d0774a30deb1c5b1ac3e6b9d75fb6c3a.scn"]
+source_file="res://Assets/TavernSceneAssets/Tavern_firstfloor_wallprops.glb"
+dest_files=["res://.godot/imported/Tavern_firstfloor_wallprops.glb-e505fd431db4faa52e92033d11b0be94.scn"]
 
 [params]
 
-nodes/root_type="Node2D"
+nodes/root_type=""
 nodes/root_name=""
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
@@ -32,12 +32,6 @@ animation/trimming=false
 animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
-_subresources={
-"nodes": {
-"PATH:floor_wood_large_dark": {
-"generate/physics": true
-}
-}
-}
+_subresources={}
 gltf/naming_version=1
 gltf/embedded_image_handling=1

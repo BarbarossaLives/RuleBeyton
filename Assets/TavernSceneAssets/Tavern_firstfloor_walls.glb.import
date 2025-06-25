@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bigh3rs4rn6an"
-path="res://.godot/imported/Tavern_firstfloor_walls.glb-58c2694b419c24b3433eb68c6bc5cb4a.scn"
+path="res://.godot/imported/Tavern_firstfloor_walls.glb-dd669fa3f3cbaf352f9a4b62b36defb0.scn"
 
 [deps]
 
-source_file="res://Assets/TavernScveneAssets/Tavern_firstfloor_walls.glb"
-dest_files=["res://.godot/imported/Tavern_firstfloor_walls.glb-58c2694b419c24b3433eb68c6bc5cb4a.scn"]
+source_file="res://Assets/TavernSceneAssets/Tavern_firstfloor_walls.glb"
+dest_files=["res://.godot/imported/Tavern_firstfloor_walls.glb-dd669fa3f3cbaf352f9a4b62b36defb0.scn"]
 
 [params]
 
