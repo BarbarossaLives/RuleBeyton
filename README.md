@@ -1,0 +1,1 @@
+Rule Beyton is an ambitious 3D RPG project in development by Barbarossa Lives Game Studio. Set in a gritty, living city, you start as a lowly thief and work your way up the criminal underworld. The game blends classic role-playing mechanics with modern AI-driven systems for dynamic encounters and emergent gameplay.
