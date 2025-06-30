@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://cdoekpjt5c6xe"]
+
+[ext_resource type="PackedScene" uid="uid://bigh3rs4rn6an" path="res://Assets/TavernSceneAssets/Tavern_firstfloor_walls.glb" id="1_qjt62"]
+[ext_resource type="Material" uid="uid://hdy5qf3wslmc" path="res://Assets/TavernSceneAssets/texture.tres" id="2_1vnvb"]
+
+[node name="tavern_first_walls" instance=ExtResource("1_qjt62")]
+
+[node name="wall_half_endcap" parent="." index="0"]
+surface_material_override/0 = ExtResource("2_1vnvb")

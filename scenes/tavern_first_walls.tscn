@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bncikwco1688x"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0occx"]
+resource_name = "texture"
+roughness = 0.5
+
+[node name="tavern_first_walls"]
+
+[node name="wall_half_endcap" parent="." index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_0occx")
